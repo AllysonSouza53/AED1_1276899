@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : Allyson Kayk de Souza
-Linguagem   : C
+Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 10/10/2026
 Objetivo    : Encontrar entre 100 valores e a posição do maior e o maior
